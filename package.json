@@ -1,5 +1,5 @@
 {
-  "name": "Zenitsu-Bot",
+  "name": "𝙌𝙐𝞢𝞢𝞜  𝙎𝞖𝞒𝙐𝙏𝞘 ♡🥹",
   "version": "3.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "Nandita.js",
@@ -19,7 +19,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DGDEEPAK",
+  "author": "LEONGAMER",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys",
@@ -88,10 +88,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGDEEPAK/Zenitsu-Bot3.git"
+    "url": "git+"
   },
   "bugs": {
-    "url": "https://github.com/DGDEEPAK/Zenitsu-Bot3/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/DGDEEPAK/Zenitsu-Bot3/#readme"
+  "homepage": ""
 }
